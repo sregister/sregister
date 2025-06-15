@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-By day I'm validation engineer for Intel working on drivers for datacenter network hardware.
+I'm validation engineer at Intel working on drivers for datacenter network hardware.
 
-By night I'll be working on my homelab, sysadmin, 3d printing, soldering stuff, web apps, VoIP, gameservers, and playing with AI/ML.
+By night I'll be working on my homelab, sysadmin, 3d printing, soldering stuff, web apps, VoIP, gameservers, figuring out AI/ML.
 
 <!--
 **sregister/sregister** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
