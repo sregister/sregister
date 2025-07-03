@@ -1,20 +1,26 @@
-## Hi there 👋
+# 👋 Hi
 
-I'm validation engineer at Intel working on drivers for datacenter network hardware.
+## 🚀 What I'm Up To
 
-By night I'll be working on my homelab, sysadmin, 3d printing, soldering stuff, web apps, VoIP, gameservers, figuring out AI/ML.
+- 🔬 Validating cutting-edge datacenter network hardware drivers at Intel Corp
+- 🐧 Deep diving into Linux kernels and system internals
+- 🤖 Exploring AI/ML applications workflows
+- 🌐 Building and maintaining network infrastructure
+- 📦 Containerizing with Docker and k8s
+- 🏠 Homelab adventures: 3D printing, gameservers, HLS and WebRTC streaming
 
-<!--
-**sregister/sregister** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🛠️ Tech
 
-Here are some ideas to get you started:
+```python
+tech_stack = {
+    "languages": ["Python", "Bash", "C", "Go"],
+    "frameworks": ["pytest", "llamacpp", "pytorch"],
+    "infrastructure": ["docker", "proxmox", "linux", "k3s"],
+    "interests": ["AI/ML", "Networking", "Kernels", "System Administration"]
+}
+```
+## 📫 Get In Touch
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📧 Email: [Drop me a line](mailto:sreg@sreg.io)
+
+![Profile views](https://komarev.com/ghpvc/?username=sregister&color=blueviolet)
