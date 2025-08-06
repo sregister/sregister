@@ -2,12 +2,12 @@
 
 ## 🚀 What I'm Up To
 
-- 🔬 Validating cutting-edge datacenter network hardware drivers at Intel Corp
+- 🔬 Working on network SW at Intel Corp
 - 🐧 Deep diving into Linux kernels and system internals
 - 🤖 Exploring AI/ML applications workflows
 - 🌐 Building and maintaining network infrastructure
 - 📦 Containerizing with Docker and k8s
-- 🏠 Homelab adventures: 3D printing, gameservers, HLS and WebRTC streaming
+- 🏠 Homelab: 3D printing, gameservers, HLS and WebRTC streaming
 
 ## 🛠️ Tech
 
