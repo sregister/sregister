@@ -1,23 +1,19 @@
 # 👋 Hi
 
-## 🚀 What I'm Up To
+## What I'm Up To
 
-- 🔬 Working on network SW at Intel Corp
-- 🐧 Deep diving into Linux kernels and system internals
-- 🤖 Exploring AI/ML applications workflows
-- 🌐 Building and maintaining network infrastructure
-- 📦 Containerizing with Docker and k8s
-- 🏠 Homelab: 3D printing, gameservers, HLS and WebRTC streaming
+- Working on network SW at Intel
+- Playing with AI
+-  Building and maintaining network infrastructure
+-  Learning k8s
+-  3D printing, gameservers, HLS and WebRTC streaming
 
-## 🛠️ Tech
+## Tech
 
 ```python
-tech_stack = {
-    "languages": ["Python", "Bash", "C", "Go"],
+    "languages": ["Python", "C", "Bash", "Go"],
     "frameworks": ["pytest", "llamacpp", "pytorch"],
     "infrastructure": ["docker", "proxmox", "linux", "k3s"],
-    "interests": ["AI/ML", "Networking", "Kernels", "System Administration"]
-}
 ```
 ## 📫 Get In Touch
 
