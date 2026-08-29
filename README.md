@@ -1,10 +1,7 @@
-# 👋 Hi
-
 ## What I'm Up To
 
-- Playing with AI
 -  Building and maintaining network infrastructure
--  Learning k8s
+-  Learning k8s and running AI
 -  3D printing, gameservers, HLS and WebRTC streaming
 
 ## Tech
